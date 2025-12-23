@@ -1,0 +1,29 @@
+.btn {
+  font-size: 13px;
+  border-radius: 4px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.add-task-btn {
+  background: #3b82f6;
+  border: none;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+
+.edit-btn {
+  background: #2563eb;
+  border: none;
+  color: #ffffff;
+  margin-left: 8px;
+}
+
+.delete-btn {
+  background: #fee2e2;
+  color: #b91c1c;
+  border: 1px solid #fecaca;
+  margin-right: 8px;
+}

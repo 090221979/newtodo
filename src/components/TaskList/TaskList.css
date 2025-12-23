@@ -1,0 +1,16 @@
+.task-list-container {
+  width: 70%;
+  margin: 0 auto 40px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.empty-state {
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  padding: 20px;
+  text-align: center;
+  color: #6b7280;
+}

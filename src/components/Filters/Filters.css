@@ -1,0 +1,25 @@
+.filters {
+  width: 70%;
+  margin: 32px auto 10px auto;
+  display: flex;
+  gap: 40px;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter-group label {
+  font-size: 14px;
+  color: #4b5563;
+  margin-bottom: 4px;
+}
+
+.filter-group select {
+  width: 180px;
+  height: 36px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+  padding: 4px 8px;
+}
